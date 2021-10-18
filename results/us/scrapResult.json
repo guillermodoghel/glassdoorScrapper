@@ -1,0 +1,702 @@
+[
+  {
+    "companyName": "J P Morgan",
+    "jobTitle": "Data Scientist",
+    "question": "Got asked a lot of questions about the regression projects on my resume, and multiple basic statistical questions; Did not have any coding test.",
+    "answer": "",
+    "date": "Oct 17, 2021"
+  },
+  {
+    "companyName": "RHOMBUS POWER",
+    "jobTitle": "Data Scientist",
+    "question": "For on-site interview, it was related to a regex question.",
+    "answer": "",
+    "date": "Oct 15, 2021"
+  },
+  {
+    "companyName": "Cempra Pharmaceuticals",
+    "jobTitle": "Data Scientist",
+    "question": "Why are the goals that brought you here?",
+    "answer": "Fairly, honestly",
+    "date": "Oct 15, 2021"
+  },
+  {
+    "companyName": "C3 AI",
+    "jobTitle": "Data Scientist",
+    "question": "How does a Res-Net look like? Whats a common issue with ResNets? How do you normalize in Computer Vision DL models?",
+    "answer": "",
+    "date": "Oct 15, 2021"
+  },
+  {
+    "companyName": "Houzz",
+    "jobTitle": "Data Scientist",
+    "question": "SQL questions Probabilities Case study around a/b testing, product metrics Past experiences",
+    "answer": "",
+    "date": "Oct 15, 2021"
+  },
+  {
+    "companyName": "Washington University in St Louis",
+    "jobTitle": "Data Analyst",
+    "question": "What was something about the job description that attracted you to apply to this position?",
+    "answer": "",
+    "date": "Oct 15, 2021"
+  },
+  {
+    "companyName": "Boulder County",
+    "jobTitle": "Data Analyst",
+    "question": "Most questions were just your standard interview questions, like, \"Why do you want to work at ?\" and such. One question that I did like was when the Assessor asked me to explain a relational database to someone that knows nothing about relational databases.",
+    "answer": "I answered this question by using an example of a crime investigation where the crime was the fact table and the different details of the crime were the relational dimension tables related to the crime; such as, when the crime occurred, where the crime occurred, description of the assailant, description of the victim, and such.",
+    "date": "Oct 15, 2021"
+  },
+  {
+    "companyName": "Roku",
+    "jobTitle": "Data Analyst",
+    "question": "Riddle questions to assess your critical thinking with less than 5 minutes left in your interview.",
+    "answer": "",
+    "date": "Oct 15, 2021"
+  },
+  {
+    "companyName": "Uber",
+    "jobTitle": "Data Scientist Intern",
+    "question": "first 20 minutes consist of an easy algorithm question, the rest is answering about a specific data challenge (no coding)",
+    "answer": "",
+    "date": "Oct 14, 2021"
+  },
+  {
+    "companyName": "DraftKings",
+    "jobTitle": "Business Data Analyst",
+    "question": "Not allowed to disclose. Pretty basic interview questions.",
+    "answer": "",
+    "date": "Oct 14, 2021"
+  },
+  {
+    "companyName": "DraftKings",
+    "jobTitle": "Business Data Analyst",
+    "question": "Not allowed to disclose. Pretty basic interview questions.",
+    "answer": "",
+    "date": "Oct 14, 2021"
+  },
+  {
+    "companyName": "Farmers Insurance Group",
+    "jobTitle": "Data Analyst",
+    "question": "What variables would you use to determine the price of an auto policy?",
+    "answer": "Age, location, gender, # of vehicles, # of priors, etc.",
+    "date": "Oct 14, 2021"
+  },
+  {
+    "companyName": "CVS Health",
+    "jobTitle": "Data Scientist",
+    "question": "Sql Multiple choices (statistics) Python",
+    "answer": "",
+    "date": "Oct 14, 2021"
+  },
+  {
+    "companyName": "CarMax",
+    "jobTitle": "Data Analyst",
+    "question": "What are projects you've worked on",
+    "answer": "",
+    "date": "Oct 14, 2021"
+  },
+  {
+    "companyName": "Education at Work",
+    "jobTitle": "Data Analyst",
+    "question": "What is your strength? Introduce yourself.",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "Plume Design",
+    "jobTitle": "Senior Data Scientist",
+    "question": "Questions on Python (easy) and SQL. Basic questions on ML",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "IQVIA",
+    "jobTitle": "Data Scientist",
+    "question": "promoting two kinds of vaccines",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "Robinhood",
+    "jobTitle": "Data Science Analyst",
+    "question": "Generic product and A/B testing question",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "Robinhood",
+    "jobTitle": "Data Science Analyst",
+    "question": "3 SQL questions. One required joining, group by, having statement",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "Robinhood",
+    "jobTitle": "Data Science Analyst",
+    "question": "Basic predictive ML problem asdf",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "Robinhood",
+    "jobTitle": "Data Science Analyst",
+    "question": "Basic probability (think of coin flip/passing on gene question)",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "E thac Solutions",
+    "jobTitle": "Data Analyst Interview",
+    "question": "Fale de si, dos pontos fortes, pontos fracos. Porque se interessou na vaga",
+    "answer": "Sou uma pessoa com fortes pontencias, habilidades, estou atras de desafios.",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "Better Place Forests",
+    "jobTitle": "Lead Data Engineer",
+    "question": "Talked lots about background and experience. Lots of questions around Snowflake's architecture.",
+    "answer": "",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "companyName": "Morgan Stanley",
+    "jobTitle": "Business and Data Analyst",
+    "question": "One time you disagreed with someone",
+    "answer": "I talked about a project experience and how i improved jt",
+    "date": "Oct 12, 2021"
+  },
+  {
+    "companyName": "FieldEdge",
+    "jobTitle": "Data Analyst",
+    "question": "Q: What made you interested in FieldEdge and/or what about the company culture excited you?",
+    "answer": "",
+    "date": "Oct 12, 2021"
+  },
+  {
+    "companyName": "Lumen",
+    "jobTitle": "Data Analyst Summer",
+    "question": "Time where you worked in a group",
+    "answer": "",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Taulia",
+    "jobTitle": "Data Engineer",
+    "question": "Virtual interview questions were very basic python tasks around data structures like lists and hashmap. Also had technical design/discussion sessions around databases, scaling, etc",
+    "answer": "",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Goldman Sachs",
+    "jobTitle": "Data Scientist",
+    "question": "Questions based on resume and why do you want to leave your current job?",
+    "answer": "",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Goldman Sachs",
+    "jobTitle": "Data Scientist",
+    "question": "Questions on data cleaning, overfitting, performance (accuracy, precision, recall, F-1), language models, regularization etc.",
+    "answer": "",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Goldman Sachs",
+    "jobTitle": "Data Scientist",
+    "question": "Build a classifier to classify customers based on their credit worthiness (excellent, good, poor, 1 more label)",
+    "answer": "Had 45 minutes to build a classifier. It had terrible accuracy, barely better than random (25% for 4 classes), but I was able to answer follow-up questions on my decisions, so it was ok.",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Goldman Sachs",
+    "jobTitle": "Data Scientist",
+    "question": "LC easy - Binary search question",
+    "answer": "",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "IBM",
+    "jobTitle": "Data Science",
+    "question": "Normal data analysis questions, predictive modeling.",
+    "answer": "",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Google",
+    "jobTitle": "Data Scientist",
+    "question": "standard stats and behavior and product sense.",
+    "answer": "can you please describe what were the coding questions?",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Facebook",
+    "jobTitle": "Data Scientist",
+    "question": "xxx in fb goes up by 10%, and xx goes down by 5%, what might be the reason?",
+    "answer": "it might be guardrail effect. For instance, we double the ads in newsfeed. Although the revenue goes up 10%, the user engagement (sharing, posting etc) were negatively impacted more ads and therefore the engagement was down 5%.",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Blue Yonder",
+    "jobTitle": "Data Science Consultant",
+    "question": "Questions on EDA and basic ML.",
+    "answer": "",
+    "date": "Oct 11, 2021"
+  },
+  {
+    "companyName": "Centurion Health",
+    "jobTitle": "Data Analyst",
+    "question": "Tell me about your background",
+    "answer": "",
+    "date": "Oct 10, 2021"
+  },
+  {
+    "companyName": "Xaxis",
+    "jobTitle": "Data Analyst",
+    "question": "Tell me about your recent work background?",
+    "answer": "",
+    "date": "Oct 10, 2021"
+  },
+  {
+    "companyName": "Target",
+    "jobTitle": "Senior Data Analyst",
+    "question": "1. Tell me about a time you faced a complex problem.",
+    "answer": "",
+    "date": "Oct 9, 2021"
+  },
+  {
+    "companyName": "Citcon",
+    "jobTitle": "Data Analyst",
+    "question": "1. experience SQL? Python? 2. experience with CRM system 3. questions about the projects on my resume",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "Alibaba Group",
+    "jobTitle": "Data Scientist",
+    "question": "What are the clustering techniques that you are familiar with",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "Progressive Leasing",
+    "jobTitle": "Data Analyst II",
+    "question": "How do you decide what variables to include in a model?",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "Progressive Leasing",
+    "jobTitle": "Data Analyst II",
+    "question": "What is the third condition of a vlookup?",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "J D Power",
+    "jobTitle": " ",
+    "question": "Why work at J.D. Powers w/ calculation question.",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "Cox Automotive",
+    "jobTitle": "Data Engineer",
+    "question": "SQL, AWS, my experience on previous projects",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "Blackstone",
+    "jobTitle": "Data Analyst",
+    "question": "Can you tell me about a time when you demonstrated leadership skills?",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "Better com",
+    "jobTitle": "Data Engineer",
+    "question": "Not allowed to share due to disclosure agreement.",
+    "answer": "",
+    "date": "Oct 8, 2021"
+  },
+  {
+    "companyName": "Akamai",
+    "jobTitle": "Data Science Intern",
+    "question": "How to identify outliers in a dataset?",
+    "answer": "Varies from as simple as eyeballing a boxplot or scatterplot to using methods like calculating IQR",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Johns Hopkins University Applied Physics Laboratory",
+    "jobTitle": "Data Scientist",
+    "question": "How would you use an ontology in an ML system for using images to identify people who needed rescuing?",
+    "answer": "",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Johns Hopkins University Applied Physics Laboratory",
+    "jobTitle": "Data Scientist",
+    "question": "Describe a time where you had to deal with a group conflict.",
+    "answer": "",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Johns Hopkins University Applied Physics Laboratory",
+    "jobTitle": "Data Scientist",
+    "question": "Can you give an example of an AI system that was supposed to be beneficial but ended up being used for harm?",
+    "answer": "Deepfake",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Johns Hopkins University Applied Physics Laboratory",
+    "jobTitle": "Data Scientist",
+    "question": "How would you design an ML system for textual data? How would you change your design to account for extracting noun phrases?",
+    "answer": "",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Johns Hopkins University Applied Physics Laboratory",
+    "jobTitle": "Data Scientist",
+    "question": "Describing my thesis in detail",
+    "answer": "",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Liberty Mutual Insurance",
+    "jobTitle": "Data Analyst Intern",
+    "question": "Describe a project related to generalized linear models that you have done before.",
+    "answer": "",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Upwork",
+    "jobTitle": "Data Analyst",
+    "question": "What metrics would you use to measure if there was a fraud risk?",
+    "answer": "",
+    "date": "Oct 7, 2021"
+  },
+  {
+    "companyName": "Veeva Systems",
+    "jobTitle": "Marketing Data Analyst",
+    "question": "Why do you want to work in the health care space?",
+    "answer": "Health care is the final frontier of data analytics. And the solutions to that challenge that Veeva is coming up with through their Crossix Analytics department is unique and exciting.",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Hydrow",
+    "jobTitle": "Data Analyst Internship",
+    "question": "What is your experience with Data Analytics?",
+    "answer": "",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Tinder",
+    "jobTitle": "Data Scientist II",
+    "question": "Take home assessment and experience based questions. You’re not getting more than that ;p",
+    "answer": "",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Reli Group",
+    "jobTitle": "Data Analyst",
+    "question": "Questions ranged from experience with multiple stakeholders to experience with tools to be used on the project. Also included questions containing strengths, weaknesses, difficult scenarios and the like. Nothing too specific outside of the project's objectives.",
+    "answer": "In typical fashion; however, specificity was used when needed to explain difficult situations with external stakeholders and the like.",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Naval Sea Systems Command",
+    "jobTitle": " ",
+    "question": "Describe a Data Analytics related project you completed and your role.",
+    "answer": "",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Naval Sea Systems Command",
+    "jobTitle": " ",
+    "question": "What is your favorite and least favorite aspect of Data Analytics?",
+    "answer": "",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Siemens Healthineers",
+    "jobTitle": " ",
+    "question": "Machine learning concepts and on SQL",
+    "answer": "",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "BD",
+    "jobTitle": "Data Analyst",
+    "question": "Why you intresting in BD Group",
+    "answer": "",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Amazon",
+    "jobTitle": "Data Engineer",
+    "question": "Describe the data pipeline you had worked",
+    "answer": "",
+    "date": "Oct 6, 2021"
+  },
+  {
+    "companyName": "Amazon",
+    "jobTitle": "Data Scientist",
+    "question": "Some questions can also be presented in the form of a simple case exercise such as how would you process a dataset for training and how would you decide what model to use. Interviewers at all rounds will always ask follow-up questions to your answers so if you suggest an idea or approach, be sure you are familiar with it. They may also ask you about keywords you wrote on your resume. For example, if you wrote “GANs” somewhere on your resume, don’t be surprised if they ask you to explain GANs to them in detail with a bunch of follow-up questions. Make sure you brush up on fundamentals of ML and statistics Science Case study Describe how you will generate your dataset: how you will select an unbiased sample, deal with class imbalance, consider temporal effects. How will you split into train/val/test? I follow this website: https://mlengineer.io/",
+    "answer": "I followed this structure when approaching the problem and the discussion went very well: i. Repeat and clarify the initial problem statement to the interviewer. ii. Define the metrics (if applicable, define both online and offline metrics) that you will use to measure the success of your proposed solution. iii. Describe what features you will consider for building your model(s) and how you will engineer them. iv. Describe how you will generate your dataset: how you will select an unbiased sample, deal with class imbalance, consider temporal effects. How will you split into train/val/test? v. After you train your model, discuss how you will backtest before deployment. vi. Last step is discussing how you will monitor real-time performance.",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "McKinsey and Company",
+    "jobTitle": "Data Analyst Intern",
+    "question": "Write an email to your supervisor when a conflict occurred in your team.",
+    "answer": "",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "USAA",
+    "jobTitle": "Data Analyst",
+    "question": "They presented me with a data frame and asked me technical questions about it. You should know how to manipulate data. They also asked me some questions about different types of regression so familiarize yourself with that.",
+    "answer": "I feel confident about three of my four answers but one of the questions I did not know the answer to.",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "Square",
+    "jobTitle": "Data Science Lead",
+    "question": "Should you continue with subscription trial of a new product?",
+    "answer": "",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "Managed Markets Insight and Technology",
+    "jobTitle": "Data Analyst",
+    "question": "What is in an instance where you did not know how to do something at work, and how did you obtain that information?",
+    "answer": "I explained the proper channels to reach out to.",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "Riot Games",
+    "jobTitle": "Data Science Intern",
+    "question": "What is the variance of",
+    "answer": "",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "STRATACACHE",
+    "jobTitle": "Data Scientist",
+    "question": "Very unintelligent questions that provide no relevant questions about the job compatibility. - What is your longterm goal (read the room please, covid is changing everyone's life and you wanted to know about my long term goal???) - Why did you decide to apply for this job? What made you interested in the company? (I am not totally interested to be honest. Your job is to give me more information and make your company as well as the job attractive)",
+    "answer": "",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "Infosys",
+    "jobTitle": "Data Scientist",
+    "question": "What is classification vs regression? What is stemming, lemmatization in NLP? Semantic Extraction",
+    "answer": "",
+    "date": "Oct 5, 2021"
+  },
+  {
+    "companyName": "Ford Motor Company",
+    "jobTitle": "Data Scientist",
+    "question": "Talk about a time where you were part of a major feature/initiative?",
+    "answer": "",
+    "date": "Oct 4, 2021"
+  },
+  {
+    "companyName": "American Express",
+    "jobTitle": "Junior Data Scientist",
+    "question": "What is CNN and LSTM? Difference between for loops and list comprehension? How would I clean a text dataset? Difference between unsupervised and supervised learning?",
+    "answer": "",
+    "date": "Oct 4, 2021"
+  },
+  {
+    "companyName": "Crew",
+    "jobTitle": "Data Analyst Associate",
+    "question": "Tell me about yourself Teamwork",
+    "answer": "",
+    "date": "Oct 4, 2021"
+  },
+  {
+    "companyName": "Ugam",
+    "jobTitle": "Sr Data Analyst",
+    "question": "SQL aggregations, Case (Use STAR to solve), behavioral",
+    "answer": "",
+    "date": "Oct 4, 2021"
+  },
+  {
+    "companyName": "North Highland",
+    "jobTitle": "Data Scientist",
+    "question": "Tell me about your background",
+    "answer": "Answered it the usual way.",
+    "date": "Oct 3, 2021"
+  },
+  {
+    "companyName": "IBM",
+    "jobTitle": "Data Scientist",
+    "question": "They asked about python on panda’s",
+    "answer": "",
+    "date": "Oct 3, 2021"
+  },
+  {
+    "companyName": "IBM",
+    "jobTitle": "Junior Data Scientist",
+    "question": "What's the difference between supervised and unsupervised learning?",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "CDC Foundation",
+    "jobTitle": "Data Analyst",
+    "question": "How would you respond to criticism?",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "Wayfair",
+    "jobTitle": "Data Engineer",
+    "question": "Describing your past project experience and tech stack you've worked upon. SQL",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "Voltus",
+    "jobTitle": "Data Engineer",
+    "question": "Some questions pertaining to the kind of data and data structures needed for DR programs and load dashboards.",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "Voltus",
+    "jobTitle": "Data Engineer",
+    "question": "Describe data flow from meter sites to database (i.e. push or pull, guaranteed delivery, processing, etc.).",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "Voltus",
+    "jobTitle": "Data Engineer",
+    "question": "What kind of database would you use for this dataset?",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "Voltus",
+    "jobTitle": "Data Engineer",
+    "question": "Describe a data model for electrical load data that is used for monitoring DR programs.",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "Arrow Electronics",
+    "jobTitle": "Data Scientist Intern",
+    "question": "Object-oriented questions, some sample logic flow, and then some quick language tests.",
+    "answer": "",
+    "date": "Oct 1, 2021"
+  },
+  {
+    "companyName": "Wurl",
+    "jobTitle": "Data Scientist",
+    "question": "Resume walkthrough, basic probability and statistics, no leetcode",
+    "answer": "",
+    "date": "Sep 30, 2021"
+  },
+  {
+    "companyName": "Fluz",
+    "jobTitle": "Data Analyst Internship",
+    "question": "Tell me about a time when you find yourself in a difficult situation and how you solved it.",
+    "answer": "",
+    "date": "Sep 30, 2021"
+  },
+  {
+    "companyName": "Blue Yonder",
+    "jobTitle": "Data Science Intern",
+    "question": "Tell us about your experiences?",
+    "answer": "",
+    "date": "Sep 30, 2021"
+  },
+  {
+    "companyName": "CreditNinja",
+    "jobTitle": "Data Scientist",
+    "question": "Why are you looking to leave your current company?",
+    "answer": "",
+    "date": "Sep 30, 2021"
+  },
+  {
+    "companyName": "Chubb",
+    "jobTitle": "Data Analyst",
+    "question": "One of my internal and external problems I had and how I overcame that. One of the real world problems that always makes me wonder to change, what is the problem and how would I change it.",
+    "answer": "",
+    "date": "Sep 29, 2021"
+  },
+  {
+    "companyName": "Chubb",
+    "jobTitle": "Data Analyst",
+    "question": "Why did I choose Chubb? How did I find out about chubb?",
+    "answer": "",
+    "date": "Sep 29, 2021"
+  },
+  {
+    "companyName": "AffiniPay",
+    "jobTitle": "Data Scientist",
+    "question": "Explaining the algorithms/analyses I included on my resume. Example: walk me through how you created and then presented the results of your k-nearest neighbors algorithm Explain different examples how you refactored your code, what was important considerations while refactoring. Many questions about data wrangling and encountering messy data and how you worked around it. When you were training junior analysts on your team, what was your typical process explaining different topics",
+    "answer": "",
+    "date": "Sep 29, 2021"
+  },
+  {
+    "companyName": "Amazon",
+    "jobTitle": "Data Engineer",
+    "question": "Describe situation when you disagree with your manager and how you handle it.",
+    "answer": "",
+    "date": "Sep 29, 2021"
+  },
+  {
+    "companyName": "Suffolk Construction",
+    "jobTitle": "Data Engineer",
+    "question": "Willing and ready to learn new toolsets and complex datasets.",
+    "answer": "",
+    "date": "Sep 29, 2021"
+  },
+  {
+    "companyName": "New Jersey Transit",
+    "jobTitle": " ",
+    "question": "What experience do you have with SQL and can you tell me a line of SQL?",
+    "answer": "",
+    "date": "Sep 29, 2021"
+  },
+  {
+    "companyName": "Intuit",
+    "jobTitle": "Senior Data Scientist",
+    "question": "Linear regression topics that you cover in undergrad.",
+    "answer": "",
+    "date": "Sep 28, 2021"
+  },
+  {
+    "companyName": "Postclick",
+    "jobTitle": "Data Analyst",
+    "question": "Talk about your background and skills",
+    "answer": "",
+    "date": "Sep 28, 2021"
+  },
+  {
+    "companyName": "Maisonette",
+    "jobTitle": "Data Analyst",
+    "question": "Talk about past experience; common behavioral questions; several technical product case questions about logistics and shipping data",
+    "answer": "",
+    "date": "Sep 28, 2021"
+  },
+  {
+    "companyName": "Fidelity Investments",
+    "jobTitle": "Data Engineer",
+    "question": "They just asked me some SQL and Java technical questions",
+    "answer": "",
+    "date": "Sep 28, 2021"
+  },
+  {
+    "companyName": "HCL",
+    "jobTitle": "Data Analyst",
+    "question": "5 sql questions 2 python questions 2 statistics",
+    "answer": "",
+    "date": "Sep 28, 2021"
+  }
+]
