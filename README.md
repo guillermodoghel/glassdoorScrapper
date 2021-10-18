@@ -1,12 +1,12 @@
 ## Glassdoor interview question scrapper script made with puppeteer
 
 
-###Install
+### Install
 ```
 npm install
 ```
 
-###Run
+### Run
 ```
 npm start
 ```
